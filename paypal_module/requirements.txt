@@ -1,0 +1,7 @@
+# Core dependencies for PayPal Orders integration
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# API and Development Server
+fastapi>=0.100.0
+uvicorn>=0.22.0
